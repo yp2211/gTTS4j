@@ -16,12 +16,13 @@ import java.util.HashMap;
 import java.util.List;
 
 /*
+ *
  * gTTS4j (Google Text to Speech): Java version of an interface to Google's Text to Speech API
  * Google TTS API supports two read speeds
  * (speed <= 0.3: slow; speed > 0.3: normal; default: 1)
  *
- * Author: Yang Peng
- * Date: 2017/09/12
+ * Github: https://github.com/yp2211/gTTS4j
+ *
  */
 public class gTTS4j {
 

@@ -13,12 +13,13 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /*
+*
 * Token (Google Translate Token)
 * Generate the current token key and allows generation of tokens (tk) with it
 * Java version of `token-script.js` itself from translate.google.com
 *
-* Author: Yang Peng
-* Date: 2017/09/12
+* Github: https://github.com/yp2211/gTTS4j
+*
 */
 public class Token {
 
